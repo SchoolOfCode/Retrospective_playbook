@@ -3,7 +3,7 @@
 Converse about current activities and their perceived values to each team member.
 ```
 ### Keep KALM
-![Banner](https://media.giphy.com/media/13PVtc14fuW3y8/giphy.gif)
+<img src="https://media.giphy.com/media/13PVtc14fuW3y8/giphy.gif" width="250" alt="banner" />
 
 ## What you need
 - A board divided into 2 columns
@@ -12,7 +12,7 @@ Converse about current activities and their perceived values to each team member
 
 `Example`
 
-![Board](https://2.bp.blogspot.com/-Aa3yvUWyjz4/UZZKID9AUkI/AAAAAAAACrs/K7bVeF9_9eA/s1600/retro-keep-more-less-add.jpg)
+<img src="https://2.bp.blogspot.com/-Aa3yvUWyjz4/UZZKID9AUkI/AAAAAAAACrs/K7bVeF9_9eA/s1600/retro-keep-more-less-add.jp" width="400" alt="Board" />
 
 ## The play
 

@@ -5,7 +5,7 @@
 ```
 
 ### Smell that sweet roast in the morning.
-![Coffee Cat](https://media.giphy.com/media/3oz8xyc6SlRBhKUhoI/giphy.gif)
+<img src="https://media.giphy.com/media/3oz8xyc6SlRBhKUhoI/giphy.gif" width="250" alt="Coffee cat" />
 
 ## What you need
 - A board with Four (4) columns on it; whether that be Trello, Virtual Whiteboard, Piece of Paper with Post-Its.

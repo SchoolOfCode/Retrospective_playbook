@@ -10,7 +10,7 @@ There are many different definitions out there for the **4 L's** retrospective p
 
 We choose to use **Liked, Learned, Lacked, Longed for**.
 
-![Four](https://media.giphy.com/media/l3V0vxrOHW5zPfd96/giphy.gif)
+<img src="https://www.underconsideration.com/brandnew/archives/All4_Channel4_logo.gif" width="250" alt="four" />
 
 ## What you need
 - A board with Four (4) columns on it; whether that be Trello, Virtual Whiteboard, Piece of Paper with Post-Its.

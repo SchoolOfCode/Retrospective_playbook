@@ -4,7 +4,7 @@ Don't focus on habits which are embedded and good, focus on things which need to
 ```
 
 ### Approach the Start line
-![Bugs Bunny](https://media.giphy.com/media/QJvwBSGaoc4eI/giphy.gif)
+<img src="https://media.giphy.com/media/QJvwBSGaoc4eI/giphy.gif" width="250" alt="Bugs Bunny" />
 
 ## What you need
 - A board with three columns 'Start', 'Stop', 'Continue'

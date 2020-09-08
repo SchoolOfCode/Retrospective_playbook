@@ -4,14 +4,15 @@ A simple activity to identify things which make the team Go Fast, and things whi
 ```
 
 ### Gotta Go Fast
-![Sonic](https://media.giphy.com/media/j65n85RPrVQlhbLQel/giphy.gif)
+<img src="https://media.giphy.com/media/j65n85RPrVQlhbLQel/giphy.gif" width="250" alt="Sonic" />
 
 ## What you need
 - A whiteboard with a picture of a cat and a parachute attached to it
 - A way to write notes onto the whiteboard
 
 `Example`
-![Speed Car](https://2.bp.blogspot.com/-OQk5K2fJ1vo/Tht_Oyg17SI/AAAAAAAABeU/8lXu-BSnoyA/w1200-h630-p-k-no-nu/future_cafing_retro_exercise_photo.jpg)
+
+<img src="https://2.bp.blogspot.com/-OQk5K2fJ1vo/Tht_Oyg17SI/AAAAAAAABeU/8lXu-BSnoyA/w1200-h630-p-k-no-nu/future_cafing_retro_exercise_photo.jpg" width="400" alt="Speed Car" />
 
 ## The play
 1. Ask the participants to write notes and place them either in "Go Fast" (Engine) or "Slow down" (Parachute)
