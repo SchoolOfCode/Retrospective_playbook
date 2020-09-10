@@ -8,7 +8,7 @@
 <img src="https://media.giphy.com/media/3oz8xyc6SlRBhKUhoI/giphy.gif" width="250" alt="Coffee cat" />
 
 ## What you need
-- A board with Four (4) columns on it; whether that be Trello, Virtual Whiteboard, Piece of Paper with Post-Its.
+- A board with four (4) columns on it; whether that be Trello, a virtual whiteboard, or a piece of paper with post-its.
 - The ability to Vote on cards
 - Headings to each column
 - 5-10 minutes of writing time
