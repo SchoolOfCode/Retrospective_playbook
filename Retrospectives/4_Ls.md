@@ -43,7 +43,7 @@ To reflect on the week, and produce any actions/or changes within the Agile team
 
 ### Lacked
 
-    Within a period between Retrospectives it is likely you yourself or you noticed the team lacking something which caused knock on impacts
+    Within a period between Retrospectives it is likely you noticed yourself or the team lacking something which caused knock on impacts
 
 - What did the Team or an individual Team member Lack this week in order to complete their work effectively?
 - Was there something missing?
