@@ -10,7 +10,7 @@ A playbook containing links and/or descriptions of several different types of Re
 3. [K.A.L.M.](./Retrospectives/KALM.md)
 
 
-4. [Speed Car](./Rstrospectives/Speed_Car.md)
+4. [Speed Car](./Retrospectives/Speed_Car.md)
 
 
 5. [Start, Stop, Continue](./Retrospectives/Start_Stop_Continue.md)
